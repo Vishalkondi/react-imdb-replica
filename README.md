@@ -27,7 +27,7 @@ To Run Test Suite:
 To Start Server:
 
 `npm start`  
-![alt text](<Screenshot (15).png>)
+![alt text](<Screenshot (14).png>)
 
 
 
